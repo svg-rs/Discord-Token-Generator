@@ -1,5 +1,4 @@
 from time import sleep
-from urllib import request
 
 
 print("Please install the .zip from the releases page!")
